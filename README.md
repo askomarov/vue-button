@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/askomarov/vue-button#built-with">
+    <a href="https://github.com/askomarov/vue-button">
       Solution
     </a>
     <span> | </span>
